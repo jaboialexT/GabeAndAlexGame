@@ -4,10 +4,15 @@ our first game has a small scope containing only 2 levels and the main mechanic 
 the hardest part of this project is the creation of the boss projectiles and the artwork
 
 skills learned:
-git basics
-player movement
-basic ai
-animations
+* git basics
+* player movement
+* basic ai
+* animations
+* ui
+* sfx
+* cutscene implementation
+* projectile creation
+* character shooting
 
 to do list:
 * level
