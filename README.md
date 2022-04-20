@@ -11,7 +11,7 @@ animations
 
 to do list:
 * level
-  * map design
+  *  <strike>map design</strike>
   * sfx
   * music
 * player
