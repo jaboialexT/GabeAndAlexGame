@@ -1,5 +1,14 @@
 # GabeAndAlexGame
 
+our first game has a small scope containing only 2 levels and the main mechanic being a bullet hell and 2d shooter/platformer
+the hardest part of this project is the creation of the boss projectiles and the artwork
+
+skills learned:
+git basics
+player movement
+basic ai
+animations
+
 to do list:
 * level
   * map design
